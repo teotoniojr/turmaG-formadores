@@ -1,5 +1,5 @@
-function tocaSomGrilo(){
-    document.querySelector('#som_tecla_grilo').play();
+function tocaSomRisada(){
+    document.querySelector('#som_tecla_risada').play();
 }
 
-document.querySelector(".tecla_grilo").onclick = tocaSomGrilo;
+document.querySelector(".tecla_risada").onclick = tocaSomGrilo;
